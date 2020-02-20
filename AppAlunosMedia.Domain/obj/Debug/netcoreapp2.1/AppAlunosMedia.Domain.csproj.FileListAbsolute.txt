@@ -1,0 +1,7 @@
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\obj\Debug\netcoreapp2.1\AppAlunosMedia.Domain.AssemblyInfoInputs.cache
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\obj\Debug\netcoreapp2.1\AppAlunosMedia.Domain.AssemblyInfo.cs
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\bin\Debug\netcoreapp2.1\AppAlunosMedia.Domain.deps.json
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\bin\Debug\netcoreapp2.1\AppAlunosMedia.Domain.dll
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\bin\Debug\netcoreapp2.1\AppAlunosMedia.Domain.pdb
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\obj\Debug\netcoreapp2.1\AppAlunosMedia.Domain.dll
+F:\dev\AppAlunosMedia\TesteBackEnd\AppAlunosMedia.Domain\obj\Debug\netcoreapp2.1\AppAlunosMedia.Domain.pdb
